@@ -1,0 +1,59 @@
+.settings_page_simple-custom-login-page table {
+  margin: 32px 0;
+  background: #fff;
+  border-radius: 16px;
+  max-width: 600px;
+}
+
+.settings_page_simple-custom-login-page table th {
+  width: 150px;
+}
+
+.settings_page_simple-custom-login-page table th,
+.settings_page_simple-custom-login-page table td {
+  padding: 16px;
+}
+
+.settings_page_simple-custom-login-page table input[type="text"] {
+  width: 100%
+}
+
+.sclp-image-selector img {
+  display: block;
+  width: auto;
+  height: auto;
+  max-width: 300px;
+  max-height: 100px;
+  margin-bottom: 8px;
+}
+
+.sclp-heading {
+  display: flex;
+  align-items: center;
+  font-weight: 100;
+  font-size: 38px;
+  margin: 16px 0;
+  padding: 16px;
+  color: #ffffff;
+  background: #2271b1;
+  border-radius: 16px;
+  max-width: 568px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.25);
+}
+
+.sclp-heading::before {
+  content: "";
+  display: block;
+  background-image: url(../images/sclp-logo.svg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  width: 60px;
+  height: 60px;
+  margin-right: 16px;
+}
+
+.sclp-info {
+  color: #777;
+  font-size: 12px;
+  font-style: italic;
+}
