@@ -1,12 +1,10 @@
 <?php
 /**
- * The plugin bootstrap file
+ * Simple Custom Login Page
  *
- * This generates the plugin information in the plugin admin area.
- * It also includes all of the dependencies used by the plugin,
- * registers the activation and deactivation functions, and defines a function
- * that starts the plugin.
- *
+ * @author            George Pattichis
+ * @copyright         2024 George Pattichis
+ * @license           GPL-2.0-or-later
  * @link              https://profiles.wordpress.org/pattihis/
  * @since             1.0.0
  * @package           Simple_Custom_Login_Page
@@ -15,7 +13,10 @@
  * Plugin Name:       Simple Custom Login Page
  * Plugin URI:        https://wordpress.org/plugins/simple-custom-login-page/
  * Description:       This plugin allows you to customize the image and the appearance of the WordPress Login Screen.
- * Version:           1.0.0
+ * Version:           1.0.1
+ * Requires at least: 5.3.0
+ * Tested up to:      6.4.2
+ * Requires PHP:      7.0
  * Author:            George Pattichis
  * Author URI:        https://profiles.wordpress.org/pattihis/
  * License:           GPL-2.0+
@@ -25,7 +26,7 @@
  */
 
 /*
-	Copyright 2023  George Pattihis (gpattihis@gmail.com)
+	Copyright 2024  George Pattihis (gpattihis@gmail.com)
 
 	"Simple Custom Login Page" is free software: you can redistribute it and/or modify
 	it under the terms of the GNU General Public License as published by
@@ -51,7 +52,7 @@ if ( ! defined( 'WPINC' ) ) {
  *
  * @var string The current plugin version.
  */
-define( 'SCLP_VERSION', '1.0.0' );
+define( 'SCLP_VERSION', '1.0.1' );
 
 /**
  * Plugin's basename

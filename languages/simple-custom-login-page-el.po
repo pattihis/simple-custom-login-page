@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2023-10-18 21:35+0000\n"
+"PO-Revision-Date: 2023-12-31 06:55+0000\n"
 "Last-Translator: \n"
 "Language-Team: Greek\n"
 "Language: el\n"
@@ -48,6 +48,19 @@ msgstr "Επιλέξτε Εικόνα"
 msgid "Settings"
 msgstr "Ρυθμίσεις"
 
+#: admin/partials/simple-custom-login-page-admin-display.php:19
+msgid "Simple Custom Login"
+msgstr "Simple Custom Login"
+
+#. Name of the plugin
+msgid "Simple Custom Login Page"
+msgstr "Simple Custom Login Page"
+
+#: admin/class-simple-custom-login-page-admin.php:84
+#| msgid "Simple Custom Login Page Settings"
+msgid "Simple Custom Login Settings"
+msgstr "Ρυθμίσεις του Simple Custom Login Page"
+
 #. Description of the plugin
 msgid ""
 "This plugin allows you to customize the image and the appearance of the "
@@ -56,16 +69,9 @@ msgstr ""
 "Αυτό το πρόσθετο σάς επιτρέπει να προσαρμόσετε την εικόνα και την εμφάνιση "
 "της οθόνης σύνδεσης του WordPress."
 
-#. Name of the plugin
-msgid "Simple Custom Login Page"
-msgstr "Simple Custom Login Page"
-
-#: admin/class-simple-custom-login-page-admin.php:84
-msgid "Simple Custom Login Page Settings"
-msgstr "Ρυθμίσεις του Simple Custom Login Page"
-
 #: admin/class-simple-custom-login-page-admin.php:136
-msgid "Use the options below to personalize the login page."
+msgid ""
+"Use the options below to personalize the login page to your admin dashboard."
 msgstr ""
 "Χρησιμοποιήστε τις παρακάτω επιλογές για να εξατομικεύσετε τη σελίδα "
-"σύνδεσης."
+"σύνδεσης σας."

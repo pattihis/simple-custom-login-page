@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2023-10-18 21:37+0000\n"
+"PO-Revision-Date: 2023-12-31 06:56+0000\n"
 "Last-Translator: \n"
 "Language-Team: French (France)\n"
 "Language: fr_FR\n"
@@ -48,6 +48,19 @@ msgstr "Sélectionnez une image"
 msgid "Settings"
 msgstr "Paramètres"
 
+#: admin/partials/simple-custom-login-page-admin-display.php:19
+msgid "Simple Custom Login"
+msgstr "Simple Custom Login"
+
+#. Name of the plugin
+msgid "Simple Custom Login Page"
+msgstr "Simple Custom Login Page"
+
+#: admin/class-simple-custom-login-page-admin.php:84
+#| msgid "Simple Custom Login Page Settings"
+msgid "Simple Custom Login Settings"
+msgstr "Paramètres Simple Custom Login Page"
+
 #. Description of the plugin
 msgid ""
 "This plugin allows you to customize the image and the appearance of the "
@@ -56,15 +69,9 @@ msgstr ""
 "Ce plugin vous permet de personnaliser l'image et l'apparence de l'écran de "
 "connexion WordPress."
 
-#. Name of the plugin
-msgid "Simple Custom Login Page"
-msgstr "Simple Custom Login Page"
-
-#: admin/class-simple-custom-login-page-admin.php:84
-msgid "Simple Custom Login Page Settings"
-msgstr "Paramètres Simple Custom Login Page"
-
 #: admin/class-simple-custom-login-page-admin.php:136
-msgid "Use the options below to personalize the login page."
+msgid ""
+"Use the options below to personalize the login page to your admin dashboard."
 msgstr ""
-"Utilisez les options ci-dessous pour personnaliser la page de connexion."
+"Utilisez les options ci-dessous pour personnaliser la page de connexion à "
+"votre tableau de bord d'administration."

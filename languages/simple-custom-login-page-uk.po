@@ -4,21 +4,22 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Simple Custom Login Page 1.0\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tag/simple-custom-login-page\n"
-"POT-Creation-Date: 2013-05-12 13:07:08+00:00\n"
+"POT-Creation-Date: 2023-12-31 06:54+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2023-12-31 06:56+0000\n"
+"PO-Revision-Date: 2023-12-31 07:02+0000\n"
 "Last-Translator: \n"
-"Language-Team: Spanish (Spain)\n"
-"Language: es_ES\n"
+"Language-Team: Ukrainian\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
 "X-Generator: Loco https://localise.biz/\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Loco-Version: 2.6.6; wp-6.3.2"
+"X-Loco-Version: 2.6.6; wp-6.4.2"
 
 #: admin/class-simple-custom-login-page-admin.php:116
 msgid "Contact"
-msgstr "Contacto"
+msgstr "контакт"
 
 #. Author of the plugin
 msgid "George Pattichis"
@@ -34,19 +35,19 @@ msgstr "https://wordpress.org/plugins/simple-custom-login-page/"
 
 #: admin/class-simple-custom-login-page-admin.php:158
 msgid "Recommended dimensions width: 320px, height: 84px."
-msgstr "Dimensiones recomendadas ancho: 320 px, alto: 84 px."
+msgstr "Рекомендовані розміри: ширина: 320 пікселів, висота: 84 пікселів."
 
 #: admin/class-simple-custom-login-page-admin.php:155
 msgid "Reset"
-msgstr "Reiniciar"
+msgstr "Скинути"
 
 #: admin/class-simple-custom-login-page-admin.php:154
 msgid "Select Image"
-msgstr "Seleccionar imagen"
+msgstr "Виберіть Зображення"
 
 #: admin/class-simple-custom-login-page-admin.php:115
 msgid "Settings"
-msgstr "Configuraciónes"
+msgstr "Налаштування"
 
 #: admin/partials/simple-custom-login-page-admin-display.php:19
 msgid "Simple Custom Login"
@@ -57,21 +58,20 @@ msgid "Simple Custom Login Page"
 msgstr "Simple Custom Login Page"
 
 #: admin/class-simple-custom-login-page-admin.php:84
-#| msgid "Simple Custom Login Page Settings"
 msgid "Simple Custom Login Settings"
-msgstr "Ajustes de Simple Custom Login Page"
+msgstr "Налаштування Simple Custom Login"
 
 #. Description of the plugin
 msgid ""
 "This plugin allows you to customize the image and the appearance of the "
 "WordPress Login Screen."
 msgstr ""
-"Este complemento le permite personalizar la imagen y la apariencia de la "
-"pantalla de inicio de sesión de WordPress."
+"Цей плагін дозволяє налаштувати зображення та зовнішній вигляд екрана входу "
+"в WordPress."
 
 #: admin/class-simple-custom-login-page-admin.php:136
 msgid ""
 "Use the options below to personalize the login page to your admin dashboard."
 msgstr ""
-"Utilice las siguientes opciones para personalizar la página de inicio de "
-"sesión en su panel de administración."
+"Використовуйте наведені нижче параметри, щоб персоналізувати сторінку входу "
+"на інформаційну панель адміністратора."
