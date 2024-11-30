@@ -2,9 +2,9 @@
 Contributors: pattihis
 Tags: login, logo, login logo, admin, customisation, customization, branding, colors, custom login, wp-login, login page, login brand
 Requires at least: 5.3.0
-Tested up to: 6.4.2
+Tested up to: 6.7.1
 Requires PHP: 7.0
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -68,6 +68,9 @@ Of course! "Simple Custom Login Page" is compatible with any theme and plugin be
 3. A customised login screen using this plugin.
 
 == Changelog ==
+
+= Version 1.0.2 =
+* Compatible with WP 6.7
 
 = Version 1.0.1 =
 * Compatible with WP 6.4

@@ -13,9 +13,9 @@
  * Plugin Name:       Simple Custom Login Page
  * Plugin URI:        https://wordpress.org/plugins/simple-custom-login-page/
  * Description:       This plugin allows you to customize the image and the appearance of the WordPress Login Screen.
- * Version:           1.0.1
+ * Version:           1.0.2
  * Requires at least: 5.3.0
- * Tested up to:      6.4.2
+ * Tested up to:      6.7.1
  * Requires PHP:      7.0
  * Author:            George Pattichis
  * Author URI:        https://profiles.wordpress.org/pattihis/
@@ -52,7 +52,7 @@ if ( ! defined( 'WPINC' ) ) {
  *
  * @var string The current plugin version.
  */
-define( 'SCLP_VERSION', '1.0.1' );
+define( 'SCLP_VERSION', '1.0.2' );
 
 /**
  * Plugin's basename

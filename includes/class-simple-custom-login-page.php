@@ -64,7 +64,7 @@ class Simple_Custom_Login_Page {
 		if ( defined( 'SCLP_VERSION' ) ) {
 			$this->version = SCLP_VERSION;
 		} else {
-			$this->version = '1.0.1';
+			$this->version = '1.0.2';
 		}
 		$this->plugin_name = 'simple-custom-login-page';
 
